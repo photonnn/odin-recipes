@@ -1,0 +1,25 @@
+/* INDEX */
+
+.index-h1, .index-ul {
+    text-align: center;
+}
+
+.index-h1 {
+    font-size: 100px;
+}
+
+.index-ul {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    font-size: 65px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+} 
+
+/* CARROT CAKE */
