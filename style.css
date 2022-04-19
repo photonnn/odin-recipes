@@ -22,6 +22,16 @@ a:hover {
     color: gray;
 } 
 
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+}
+
 /* CARROT CAKE */
 .carrot-img {
     width: 35%;
