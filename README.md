@@ -1,8 +1,8 @@
 # odin-recipes
 
-This is a basic recipe webpage. There are 3 available recipes.
+This is a basic recipe website. There are 3 available recipes.
 
-Purpose of the project was to familiarise myself more with html. #OdinProject
+Purpose of the project was to familiarise myself more with html and css. #OdinProject
 
 Original recipes can be found here:
 https://www.allrecipes.com/recipe/7402/carrot-cake-iii/
