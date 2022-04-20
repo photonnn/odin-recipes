@@ -2,6 +2,7 @@
 
 * {
     font-family: 'Source Code Pro', monospace;
+   /* border: 2px red solid; */
 }
 
 /* INDEX */
@@ -59,6 +60,38 @@ body {
 
 /* WAFFLES */
 .waffles-img {
-    width: 35%;
-    height: 15%;
+    width: 500px;
+    height: 500px;
+    display: inline-flex;
+    padding-top: 125px;
+    padding-left: 50px;
+}
+
+.left {
+    width: 1000px;
+    float: left;
+    text-align: center;
+}
+
+.wafel {
+    margin-left: 10px;
+}
+.left ul{
+    list-style-position: inside;
+    padding-right: 75px;
+}
+.left ol{
+    list-style-position: inside;
+}
+.left h1 {
+    font-size: 45px;
+}
+
+.left input {
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+.left input:hover {
+    background: gray;
 }
