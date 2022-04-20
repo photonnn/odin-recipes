@@ -63,13 +63,13 @@ body {
     width: 500px;
     height: 500px;
     display: inline-flex;
-    padding-top: 125px;
     padding-left: 50px;
+    margin-bottom: 125px;
 }
 
 .left {
     width: 1000px;
-    float: left;
+    display: inline-block;
     text-align: center;
 }
 
