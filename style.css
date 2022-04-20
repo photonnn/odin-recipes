@@ -12,6 +12,10 @@
 
 .index-h1 {
     font-size: 100px;
+    margin-right: 205px;
+    margin-left: 205px;
+    background-color: black;
+    color: white;
 }
 
 .index-ul {
