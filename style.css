@@ -54,8 +54,9 @@ body {
 
 /* CARROT CAKE */
 .carrot-img {
-    width: 35%;
-    height: 15%;
+    width: 32em;
+    height: 50em;
+    margin-bottom: 200px;
 }
 
 /* LASAGNA */
@@ -85,6 +86,7 @@ body {
 .wafel {
     margin-left: 10px;
     margin-top: -10px;
+    margin-bottom: 50px;
 }
 .left ul{
     list-style-position: inside;
@@ -95,6 +97,9 @@ body {
 }
 .left h1 {
     font-size: 45px;
+}
+.left h3 {
+    margin-right: 20px;
 }
 
 .left input {
