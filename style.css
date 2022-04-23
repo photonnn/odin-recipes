@@ -101,6 +101,7 @@ body {
     text-align: center;
     margin-bottom: 50px;
     flex-grow: 1;
+    line-height: 25px;
 }
 
 .recipe-container {
